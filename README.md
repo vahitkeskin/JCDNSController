@@ -27,7 +27,16 @@ Key features:
 ---
 
 ## 📱 Screenshots
-*(Buraya uygulamadan ekran görüntüsü ekleyebilirsiniz)*
+
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/vahitkeskin/JCDNSController/refs/heads/main/files/image1.png" width="250" style="border:1px solid #ccc;"/></td>
+      <td><img src="https://raw.githubusercontent.com/vahitkeskin/JCDNSController/refs/heads/main/files/image2.png" width="250" style="border:1px solid #ccc;"/></td>
+      <td><img src="https://raw.githubusercontent.com/vahitkeskin/JCDNSController/refs/heads/main/files/output.gif" width="250" style="border:1px solid #ccc;"/></td>
+    </tr>
+  </table>
+</p>
 
 ---
 
